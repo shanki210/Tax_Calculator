@@ -1,0 +1,31 @@
+.error-icon {
+    display: none;
+    }
+
+    .input-group-text.error-icon {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    cursor: pointer;
+    }
+
+    .input-group-text.error-icon:hover {
+    border-color: #721c24;
+    }
+
+    .tooltip-inner {
+    background-color: #721c24;
+    }
+
+
+   .input-group-text.error-icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 999;
+    }
+    .question-icon {
+      cursor: pointer;
+      margin-left: 5px;
+    }
