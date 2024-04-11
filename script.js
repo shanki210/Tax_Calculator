@@ -50,7 +50,8 @@ $(document).ready(function () {
         }
 
         $('#resultModal').modal('show');
-        $('#resultBody').html(`<p>Taxable Income: ${taxableIncome.toFixed(2)} Lakhs</p><p>Tax to be paid: ${tax.toFixed(2)} Lakhs</p>`);
+        // $('#resultBody').html(`<p>Taxable Income: ${taxableIncome.toFixed(2)} Lakhs</p><p>Tax to be paid: ${tax.toFixed(2)} Lakhs</p>`);
+        $('#resultBody').html(`<p>Taxable Income: ${taxableIncome.toLocaleString('en-IN', {maximumFractionDigits: 2})} Lakhs</p><p>Tax to be paid: ${tax.toLocaleString('en-IN', {maximumFractionDigits: 2})} Lakhs</p>`);
       }
     });
   });
