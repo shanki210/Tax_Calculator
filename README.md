@@ -28,6 +28,6 @@ The tax calculator application is deployed at [[deployment_link_here](https://sh
 
 Include screenshots of your tax calculator application here to provide a visual representation of its functionality.
 
-![Screenshot 1]()
-![Screenshot 2]()
+![Screenshot 1](screenshot1.jpg)
+![Screenshot 2](screenshot2.jpg)
 
