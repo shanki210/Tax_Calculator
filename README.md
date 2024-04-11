@@ -28,10 +28,10 @@ The tax calculator application is deployed at [[deployment_link_here](https://sh
 
 Include screenshots of your tax calculator application here to provide a visual representation of its functionality.
 
-![Screenshot 1]([screenshot1.jpg](https://github.com/shanki210/Tax_Calculator/blob/master/screenshots/Screenshot%20(116).png?raw=true))
-![Screenshot 2]([screenshot2.jpg](https://github.com/shanki210/Tax_Calculator/blob/master/screenshots/Screenshot%20(117).png?raw=true))
-![Screenshot 3]([screenshot3.jpg](https://github.com/shanki210/Tax_Calculator/blob/master/screenshots/Screenshot%20(118).png?raw=true))
-![Screenshot 4]([screenshot4.jpg](https://github.com/shanki210/Tax_Calculator/blob/master/screenshots/screenshot1.jpg?raw=true))
-![Screenshot 5]([screenshot5.jpg](https://github.com/shanki210/Tax_Calculator/blob/master/screenshots/screenshot2.jpg?raw=true))
+![Screenshot 1](https://github.com/shanki210/Tax_Calculator/blob/master/screenshots/Screenshot%20(116).png?raw=true)
+![Screenshot 2](https://github.com/shanki210/Tax_Calculator/blob/master/screenshots/Screenshot%20(117).png?raw=true)
+![Screenshot 3](https://github.com/shanki210/Tax_Calculator/blob/master/screenshots/Screenshot%20(118).png?raw=true)
+![Screenshot 4](https://github.com/shanki210/Tax_Calculator/blob/master/screenshots/screenshot1.jpg?raw=true)
+![Screenshot 5](https://github.com/shanki210/Tax_Calculator/blob/master/screenshots/screenshot2.jpg?raw=true)
 
 
